@@ -1,0 +1,2 @@
+# Multi-User-Secure-Private-Key-Vault-Berbasis-ESP32-S3-untuk-Proteksi-Sertifikat-Digital-PKCS-12-
+Mini HSM adalah proyek Hardware Security Module berbasis ESP32-S3 untuk menyimpan private key secara aman dan melakukan tanda tangan digital tanpa mengekspos kunci ke komputer. Sistem terdiri dari firmware ESP32, TTP Server, dan Signing App untuk provisioning sertifikat serta penandatanganan dokumen PDF.
